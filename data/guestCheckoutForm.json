@@ -1,0 +1,26 @@
+{
+    "firstName": "Michal",
+    "lastName": "Siedlecki",
+    "email": "mi.sie@gmail.com",
+    "address_1" : "Ulica 12",
+    "city" : "Szczecin",
+    "zone" : "Zachodniopomorskie",
+    "postcode" : "71013",
+    "country" : "Poland",
+    "boundaryValues" :{
+        "two" : "01",
+        "three" : "012",
+        "eleven" : "01234567890",
+        "thirtyTwo" : "01234567890123456789012345678901",
+        "thirtyThree" : "012345678901234567890123456789012",
+        "hundredTwentySeven" : "012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678"
+    },
+    "invalidEmail" : "abcde",
+    "errorMessages" : {
+        "boundaryValues3_32" : "must be greater than 3 and less than 32 characters!",
+        "boundaryValues3_10" : "must be greater than 3 and less than 10 characters!",
+        "boundaryValues3_128" : "must be greater than 3 and less than 128 characters!",
+        "invalidEmail" : "E-Mail Address does not appear to be valid!",
+        "invalidRegion" : "Please select a region / state!"
+    }
+}
